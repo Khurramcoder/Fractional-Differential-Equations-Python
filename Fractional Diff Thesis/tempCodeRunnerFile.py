@@ -1,0 +1,1 @@
+gamma_val[Q-1, k] = np.math.factorial(k)

@@ -18,5 +18,7 @@ This repository contains Python code examples and implementations based on the b
 
 ...
 
+![Uploading fractional_wave-0.5.gif…]()
 
+![Uploading fractional_wave-0.9.gif…]()
 

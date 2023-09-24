@@ -1,7 +1,7 @@
 # Introduction to Fractional Differential Equations - Python Code Repository
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Uploading fractional_wave-0.5.gif…]()
+
 ## About the Book
 
 The Python code in this repository is based on the book "Introduction to Fractional Differential Equations" by Constantin Milici, Gheorghe Drăgănescu, and J. Tenreiro Machado.
